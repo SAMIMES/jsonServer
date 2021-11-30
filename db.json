@@ -1,1 +1,15 @@
-
+    [{
+        "partNumber": "ABF3FA6FPAL00XN",
+        "maturity": "LAB",
+        "shf": 2,
+        "status": "HIDDEN",
+        "pir": 0,
+        "epcif": 0,
+        "LoadSize(Byte)": "900001",
+        "LSHsize(Byte)": "900",
+        "importDate": "2021-06-23",
+        "importUser": "NG2B51F",
+        "extracts": 0,
+        "pkiSource": "SITA",
+        "comment": ""
+    }]
